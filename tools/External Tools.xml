@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
   <tool name="Cython setup" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="python" />
-      <option name="PARAMETERS" value="setup build_ext --inplace" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="COMMAND" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="PARAMETERS" value="setup.py build_ext --inplace" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
     </exec>
   </tool>
 </toolSet>

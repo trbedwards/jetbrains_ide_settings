@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1518883515489">
+      <file name="/Python Console" timestamp="1519995160252">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1518883487083">
@@ -44,7 +44,7 @@
       <file name="$USER_HOME$/code/dev/reroo-core/jplanner/algo.py" timestamp="1515849611120">
         <mark key="'" line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dev/cython_sandbox/scratch/fib.pyx" timestamp="1519992854154">
+      <file name="$USER_HOME$/code/dev/cython_sandbox/scratch/fib.pyx" timestamp="1519995037983">
         <mark key="]" line="4" column="23" />
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
@@ -58,6 +58,13 @@
         <mark key="]" line="6" column="20" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/dev/cython_sandbox/scratch/primes.pyx" timestamp="1519995418089">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="17" column="16" />
+        <mark key="." line="17" column="16" />
       </file>
       <file name="$USER_HOME$/code/dev/cosmic-ray/examples/simple_math/simple_math.rst" timestamp="1509903509281">
         <mark key="'" line="4" column="0" />
@@ -79,17 +86,23 @@
         <mark key="." line="36" column="77" />
         <mark key="^" line="36" column="77" />
       </file>
+      <file name="$USER_HOME$/code/dev/cython_sandbox/scratch/convolve_py.py" timestamp="1519996588976">
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="20" />
+        <mark key="^" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+      </file>
       <file name="$USER_HOME$/code/dev/reroo-core/jplanner/slider.py" timestamp="1514841616560">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/dev/reroo-core/SSL_CERTIFICATE_INSTRUCTIONS.rst" timestamp="1516657450092">
         <mark key="'" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dev/cython_sandbox/setup.py" timestamp="1519993264288">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="$USER_HOME$/code/dev/cython_sandbox/setup.py" timestamp="1519994322447">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="/Dummy.txt" timestamp="1518605998115">
         <mark key="[" line="0" column="0" />
@@ -117,12 +130,12 @@
         <mark key="." line="36" column="78" />
         <mark key="^" line="36" column="78" />
       </file>
-      <file name="$USER_HOME$/code/dev/cython_sandbox/scratch/main.py" timestamp="1519993057443">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="22" />
-        <mark key="." line="7" column="15" />
+      <file name="$USER_HOME$/code/dev/cython_sandbox/scratch/main.py" timestamp="1519995635961">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="23" />
       </file>
       <file name="$USER_HOME$/code/dev/reroo-core/jplanner/splitr/mapping.py" timestamp="1518727453876">
         <mark key="'" line="706" column="16" />
@@ -140,14 +153,20 @@
       <file name="$USER_HOME$/code/dev/reroo-pybridge/app/src/main/assets/python/jplanner/controller.py" timestamp="1515857068560">
         <mark key="'" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/code/dev/cython_sandbox/something.py" timestamp="1519994622669">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/code/dev/reroo-core/jplanner/location/station_codes/locations_edited.csv" timestamp="1518719389547">
         <mark key="'" line="1291" column="29" />
       </file>
-      <file name="$USER_HOME$/code/dev/cython_sandbox/scratch/setup.py" timestamp="1519991715984">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="1" />
+      <file name="$USER_HOME$/code/dev/cython_sandbox/scratch/setup.py" timestamp="1519995768395">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+        <mark key="^" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/code/dev/reroo-core/scripts/splitr/CardTypeRequest.xml" timestamp="1512499396102">
         <mark key="'" line="6" column="0" />
@@ -164,6 +183,12 @@
         <mark key="]" line="11" column="68" />
         <mark key="^" line="11" column="68" />
         <mark key="." line="11" column="68" />
+      </file>
+      <file name="$USER_HOME$/code/dev/cython_sandbox/main.py" timestamp="1519994737290">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
       </file>
       <file name="$USER_HOME$/code/dev/reroo-core/third_party_utils/requests/packages/urllib3/connectionpool.py" timestamp="1509797608379">
         <mark key="'" line="198" column="37" />
@@ -183,8 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1066" column="0" filename="$USER_HOME$/code/dev/reroo-core/jplanner/splitr/services.py" />
-      <jump line="1061" column="0" filename="$USER_HOME$/code/dev/reroo-core/jplanner/splitr/services.py" />
       <jump line="1051" column="0" filename="$USER_HOME$/code/dev/reroo-core/jplanner/splitr/services.py" />
       <jump line="1034" column="0" filename="$USER_HOME$/code/dev/reroo-core/jplanner/splitr/services.py" />
       <jump line="1032" column="0" filename="$USER_HOME$/code/dev/reroo-core/jplanner/splitr/services.py" />
@@ -283,46 +306,48 @@
       <jump line="0" column="36" filename="$USER_HOME$/code/dev/cython_sandbox/scratch/main.py" />
       <jump line="1" column="0" filename="$USER_HOME$/code/dev/cython_sandbox/scratch/main.py" />
       <jump line="4" column="0" filename="$USER_HOME$/code/dev/cython_sandbox/scratch/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/dev/cython_sandbox/scratch/primes.pyx" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/dev/cython_sandbox/scratch/primes.pyx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>setuptools</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc190byA9IG1pbigoeG1heCAtIHgpIC0gc21pZCwgc21pZCArIDEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>setuptools</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIG9yaWdpbihzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5vdXRfcm91dGVbMF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc190byA9IG1pbigoeG1heCAtIHgpIC0gc21pZCwgc21pZCArIDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uPScnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG91dF9kZXBhcnR1cmUgPSAK</text>
+        <text encoding="base64">ICAgIGF1dGhvcl9lbWFpbD0nJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGF1dGhvcj0ndGVkd2FyZHMnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpY2Vuc2U9JycsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHVybD0nJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzZWxmLmluYm91bmQub3JpZ2luCg==</text>
+        <text encoding="base64">ICAgIHBhY2thZ2VzPVsnc2NyYXRjaCddLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzZWxmLmluYm91bmQuZGVzdGluYXRpb24K</text>
+        <text encoding="base64">ICAgICNwYWNrYWdlcz1bJ3B5c3JjLkN5dGhvbkJveCcsICdweXNyYy5DeXRob25Cb3gudXRpbHMnXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5pbl9yb3V0ZVswXQo=</text>
+        <text encoding="base64">ICAgIHZlcnNpb249JycsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5pbmJvdW5kLm9yaWdpbgo=</text>
+        <text encoding="base64">ICAgIG5hbWU9J2N5dGhvbl9zYW5kYm94JywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
